@@ -1,0 +1,5 @@
+print("hello my agentic ai project is startingss" )
+print("FLOOD AND CYCLONE RELIEF INFORMATION SYSTEM")
+print("-------------------------------------------")
+print("Welcome to the Disaster Relief Assistant!")
+print("I can help you with safety and relief information.")
